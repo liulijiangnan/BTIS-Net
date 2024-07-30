@@ -40,17 +40,6 @@ data/
         BraTS2021_00495_seg.nii.gz
     ...
 
-
-以上给出的README模板内容是为项目提供结构和说明的文本部分，不需要运行代码。您可以直接复制这些内容到您的README.md文件中。不过，您需要根据实际项目路径、GitHub仓库链接等信息进行一些修改。例如：
-
-将 https://github.com/yourusername/BTIS-Net-Brain-Tumor-Segmentation.git 替换为您的实际GitHub仓库地址。
-确保数据集路径、模型路径等具体信息与您的项目结构一致。
-以下是最终可以直接复制到README.md文件中的内容：
-
-markdown
-复制代码
-# BTIS-Net for Brain Tumor Image Segmentation
-
 This repository contains the implementation of a BTIS-Net model for brain tumor image segmentation using the BraTS2021 dataset.
 
 ## Table of Contents
@@ -81,8 +70,6 @@ pip install -r requirements.txt
 Dataset
 Download the BraTS2021 dataset from the BraTS2021 website and organize it as follows:
 
-kotlin
-复制代码
 data/
     BraTS2021_00495/
         BraTS2021_00495_t1.nii.gz
