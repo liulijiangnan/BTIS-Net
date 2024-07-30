@@ -26,7 +26,7 @@ This project uses a BTIS-Net model for segmenting brain tumors in MRI images, ba
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/BTIS-Net-Brain-Tumor-Segmentation.git
+git clone https://github.com/liulijiangnan/BTIS-Net-Brain-Tumor-Segmentation.git
 cd BTIS-Net-Brain-Tumor-Segmentation
 pip install -r requirements.txt
 Dataset
